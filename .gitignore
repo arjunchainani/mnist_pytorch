@@ -1,0 +1,2 @@
+# NOTE: The file size of the MNIST training dataset is too big for Github, but the dataset is available online (along with this notebook) at Kaggle
+mnist_train.csv
